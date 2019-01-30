@@ -1,5 +1,5 @@
 body {
-  background-color:#fdf1db;
+  background-color:#f7e9e3;
   font-family:font-family: 'Maven Pro', sans-serif;
   font-size:18px;
   line-height:1.6;
@@ -8,34 +8,34 @@ body {
 h1 {
   color: #ff7657;
   font-family:font-family: 'Open Sans', sans-serif;
-  font-size:25px;
+  font-size:22px;
   line-height:1.6;
 }
 
 h2 {
   color: #612570;
   font-family:font-family: 'Open Sans', sans-serif;
-  font-size:30px;
+  font-size:20px;
   line-height:1.6;
 }
 
 h3 {
   color: #612570;
   font-family:font-family: 'Open Sans', sans-serif;
-  font-size:25px;
+  font-size:20px;
   line-height:1.6;
 }
 
 h4 {
   color: #612570;
   font-family:font-family: 'Open Sans', sans-serif;
-  font-size:25px;
+  font-size:20px;
   line-height:1.6}
 
 p {
   color: #5d5d5a;
   font-family:font-family: 'Maven Pro', sans-serif;
-  font-size:18px;
+  font-size:15px;
   line-height:1.6;
 }
 
@@ -108,8 +108,12 @@ td {
 
 .list-inline > li {
   display: inline-block;
-  padding: 0px 20px;
+  padding: 0px 40px;
 
+}
+
+.list-inline {
+  padding-left: 0px;
 }
 
 .image-size{
