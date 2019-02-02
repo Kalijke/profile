@@ -1,0 +1,26 @@
+.profile-header-wrapper {
+  background-color:#554541;
+}
+
+.profile-header-infos{
+  color: white;
+  align-items: center;
+  padding: 30px;
+  text-align: center;
+}
+
+.profile-header-infos > h2{
+  font-weight: lighter;
+  font-size: 20px;
+}
+
+.profile-header-infos > h1{
+  font-weight: width;
+  color: #FFFFFF;
+}
+.product-wrapper {
+  background-color: white;
+}
+
+
+
